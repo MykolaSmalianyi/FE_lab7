@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.js": "/FE_lab7/static/js/main.800172dd.js",
-    "static/media/apple.jpg": "/FE_lab7/static/media/apple.81fed8fcd0c305153ab9.jpg",
-    "static/media/acer.jpg": "/FE_lab7/static/media/acer.3ee3ec61638e64e33172.jpg",
+    "main.js": "/FE_lab7/static/js/main.b3cc671a.js",
     "index.html": "/FE_lab7/index.html",
-    "main.800172dd.js.map": "/FE_lab7/static/js/main.800172dd.js.map"
+    "main.b3cc671a.js.map": "/FE_lab7/static/js/main.b3cc671a.js.map"
   },
   "entrypoints": [
-    "static/js/main.800172dd.js"
+    "static/js/main.b3cc671a.js"
   ]
 }
