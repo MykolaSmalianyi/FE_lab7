@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/FE_lab7/static/js/main.a8ae6195.js",
+    "main.js": "/FE_lab7/static/js/main.7b17eb31.js",
     "index.html": "/FE_lab7/index.html",
-    "main.a8ae6195.js.map": "/FE_lab7/static/js/main.a8ae6195.js.map"
+    "main.7b17eb31.js.map": "/FE_lab7/static/js/main.7b17eb31.js.map"
   },
   "entrypoints": [
-    "static/js/main.a8ae6195.js"
+    "static/js/main.7b17eb31.js"
   ]
 }
