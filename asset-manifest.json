@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/MykolaSmalianyi/FE_lab7/static/js/main.7c04a870.js",
-    "index.html": "/MykolaSmalianyi/FE_lab7/index.html",
-    "main.7c04a870.js.map": "/MykolaSmalianyi/FE_lab7/static/js/main.7c04a870.js.map"
+    "main.js": "/FE_lab7/static/js/main.7c04a870.js",
+    "index.html": "/FE_lab7/index.html",
+    "main.7c04a870.js.map": "/FE_lab7/static/js/main.7c04a870.js.map"
   },
   "entrypoints": [
     "static/js/main.7c04a870.js"
